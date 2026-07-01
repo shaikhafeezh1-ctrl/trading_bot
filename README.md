@@ -1,3 +1,4 @@
+
 # Trading Bot — Binance Futures Testnet (USDT-M)
 
 A small, structured Python CLI application that places MARKET, LIMIT, and
@@ -138,3 +139,6 @@ Two sample log excerpts (one MARKET order, one LIMIT order) are included
 in `logs/` as required by the submission — generated from real runs
 against Binance Futures Testnet after setting up API credentials as
 described above.
+
+# trading_bot
+ f8c47efd09987354534ddc7501c24f22b5f801a9
