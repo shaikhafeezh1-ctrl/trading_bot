@@ -22,6 +22,9 @@ from bot.validators import validate_order_params, ValidationError
 from bot.client import BinanceFuturesTestnetClient
 from bot.orders import place_order
 
+from dotenv import load_dotenv
+load_dotenv() 
+
 logger = setup_logging()
 
 
